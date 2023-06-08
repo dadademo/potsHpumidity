@@ -1,0 +1,5 @@
+temp-server/node_modules/
+temp-server/temp
+temp-server/temp.db
+temp-ui/node_modules/
+temp-ui/dist/
